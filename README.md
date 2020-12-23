@@ -1,5 +1,5 @@
-# BudgetUtilityAnalysis
-The purpose of this tool is to generate graphs to help people understand the point of max utility and Hick's and Slutsky's subsitution methods. This is not meant for usage on any form of examination. Anyone who uses this tool is 100% responsible for their usage of it and should abide all local codes and laws.
+# Budget Utility Analysis
+The purpose of this tool is to generate graphs to help people understand the point of max utility and Hick's and Slutsky's subsitution methods. This is not meant for usage on any form of graded work such as homework, projects, examinations, etc. Anyone who uses this tool is 100% responsible for their usage of it and should abide all local codes and laws.
 
 Tolerance
 - How close you want the answer to
